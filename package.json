@@ -1,0 +1,13 @@
+{
+  "name": "traffic_light_simulator",
+  "main": "app.js",
+  "dependencies": {
+    "moment": "^2.17.1"
+  },
+  "devDependencies": {
+    "jest": "^18.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
