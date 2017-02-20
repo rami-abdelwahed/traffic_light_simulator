@@ -3,7 +3,7 @@ var constants = require('./constants');
 var util = require('util');
 var moment = require('moment');
 
-const repeatInterval = 1 * 60 * 1000;
+const repeatInterval = 5 * 60 * 1000;
 
 //The 4 traffic lights at the intersection
 var traffic_light_north, traffic_light_south, traffic_light_east, traffic_light_west;
